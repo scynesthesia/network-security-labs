@@ -49,6 +49,13 @@ Conducted network mapping and service discovery scans to simulate security audit
 ### Documentation
 - [Nmap Lab Notes](./Docs/nmap-lab-notes.md)
 
+## Case Study: Vulnerability Management and Hardening Validation
+
+Documented a lab-oriented case study showing how baseline exposure review, host hardening, and follow-up validation can be connected into a simple security assessment workflow.
+
+### Documentation
+- [Vulnerability Management Case Study](./Docs/case-study-vulnerability-management.md)
+
 ---
 
 ## Notes
