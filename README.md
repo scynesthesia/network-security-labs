@@ -27,9 +27,12 @@ Analyzed protocol-level traffic to identify anomalies and troubleshoot connectiv
 
 ### Areas of Focus
 - Packet capture and protocol inspection
-- DNS, DHCP, and HTTP/S traffic analysis
-- Identifying abnormal or unexpected behavior
-- Understanding packet-level communication flows
+- DNS, DHCP, HTTP, and HTTPS traffic analysis
+- TCP session behavior and ICMP troubleshooting
+- Identifying abnormal or unexpected traffic patterns
+
+### Documentation
+- [Wireshark Analysis Notes](./Docs/wireshark-analysis-notes.md)
 
 ---
 
