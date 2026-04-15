@@ -43,6 +43,9 @@ Conducted network mapping and service discovery scans to simulate security audit
 - Service enumeration
 - Identifying exposed services and potential attack surface
 
+### Documentation
+- [Nmap Lab Notes](./Docs/nmap-lab-notes.md)
+
 ---
 
 ## Notes
