@@ -38,7 +38,7 @@ Analyzed protocol-level traffic to identify anomalies and troubleshoot connectiv
 
 ## Vulnerability Assessment with Nmap
 
-Conducted network mapping and service discovery scans to simulate security audit activity in controlled lab environments.
+Conducted network mapping and service discovery scans in controlled lab environments to validate exposed services and review attack surface.
 
 ### Areas of Focus
 - Host discovery
@@ -48,6 +48,7 @@ Conducted network mapping and service discovery scans to simulate security audit
 
 ### Documentation
 - [Nmap Lab Notes](./Docs/nmap-lab-notes.md)
+- [Nmap EC2 Validation](./Docs/nmap-ec2-validation.md)
 
 ---
 
